@@ -1,0 +1,7 @@
+{
+  "name": "react-native-template-cbt-ifsp-pjs",
+  "version": "0.0.1",
+  "author": "Matheus Ferreira da Costa",
+  "description": "Template para projetos React Native, com estrutura de pastas e dependências + ESLint configurados.",
+  "license": "MIT" 
+}
